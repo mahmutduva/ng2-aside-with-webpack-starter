@@ -1,3 +1,4 @@
+# ng2-aside with webpack starter
 
-go to [Example Url](https://mahmutduva.github.io/ng2-aside-with-webpack-starter/dist)
+Check out [demo](https://mahmutduva.github.io/ng2-aside-with-webpack-starter/dist)
 
