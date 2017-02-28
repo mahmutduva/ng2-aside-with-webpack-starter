@@ -1,3 +1,3 @@
 
-go to [mahmutduva.github.io/ng2-aside-with-webpack-starter/dist](mahmutduva.github.io/ng2-aside-with-webpack-starter/dist)
+go to [https://mahmutduva.github.io/ng2-aside-with-webpack-starter/dist](Example Url)
 
