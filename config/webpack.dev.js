@@ -175,8 +175,7 @@ module.exports = function (options) {
             '@angular/http',
             '@angular/router',
             '@angularclass/hmr',
-            'rxjs',
-            'ng2-aside'
+            'rxjs'
           ]
         },
         dllDir: helpers.root('dll'),

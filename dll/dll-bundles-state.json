@@ -42,9 +42,5 @@
   "rxjs": {
     "bundle": "vendor",
     "version": "5.0.2"
-  },
-  "ng2-aside": {
-    "bundle": "vendor",
-    "version": "0.2.1"
   }
 }
